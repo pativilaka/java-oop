@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account-composition/account-composition.iml" filepath="$PROJECT_DIR$/account-composition/account-composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/average-height/average-height.iml" filepath="$PROJECT_DIR$/average-height/average-height.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/bank-account.iml" filepath="$PROJECT_DIR$/bank-account/bank-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition-employee/composition-employee.iml" filepath="$PROJECT_DIR$/composition-employee/composition-employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition-order/composition-order.iml" filepath="$PROJECT_DIR$/composition-order/composition-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition-worker/composition-worker.iml" filepath="$PROJECT_DIR$/composition-worker/composition-worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora/data-hora.iml" filepath="$PROJECT_DIR$/data-hora/data-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora-calc/data-hora-calc.iml" filepath="$PROJECT_DIR$/data-hora-calc/data-hora-calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora-conversao/data-hora-conversao.iml" filepath="$PROJECT_DIR$/data-hora-conversao/data-hora-conversao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora-formatacao/data-hora-formatacao.iml" filepath="$PROJECT_DIR$/data-hora-formatacao/data-hora-formatacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure-vector/data-structure-vector.iml" filepath="$PROJECT_DIR$/data-structure-vector/data-structure-vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dollar/dollar.iml" filepath="$PROJECT_DIR$/dollar/dollar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee/employee.iml" filepath="$PROJECT_DIR$/employee/employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudo-java.iml" filepath="$PROJECT_DIR$/.idea/estudo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca-bank/heranca-bank.iml" filepath="$PROJECT_DIR$/heranca-bank/heranca-bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-employee/list-employee.iml" filepath="$PROJECT_DIR$/list-employee/list-employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-employee-review/list-employee-review.iml" filepath="$PROJECT_DIR$/list-employee-review/list-employee-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrix/matrix.iml" filepath="$PROJECT_DIR$/matrix/matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrix-position/matrix-position.iml" filepath="$PROJECT_DIR$/matrix-position/matrix-position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/post/post.iml" filepath="$PROJECT_DIR$/post/post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rectangle-oop/rectangle-oop.iml" filepath="$PROJECT_DIR$/rectangle-oop/rectangle-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-oop/stock-oop.iml" filepath="$PROJECT_DIR$/stock-oop/stock-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/student.iml" filepath="$PROJECT_DIR$/student/student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-aproved/vector-aproved.iml" filepath="$PROJECT_DIR$/vector-aproved/vector-aproved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-average-pairs/vector-average-pairs.iml" filepath="$PROJECT_DIR$/vector-average-pairs/vector-average-pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-data/vector-data.iml" filepath="$PROJECT_DIR$/vector-data/vector-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-highest-position/vector-highest-position.iml" filepath="$PROJECT_DIR$/vector-highest-position/vector-highest-position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-hostel/vector-hostel.iml" filepath="$PROJECT_DIR$/vector-hostel/vector-hostel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-low-average/vector-low-average.iml" filepath="$PROJECT_DIR$/vector-low-average/vector-low-average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-negative-numbers/vector-negative-numbers.iml" filepath="$PROJECT_DIR$/vector-negative-numbers/vector-negative-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-number-pair/vector-number-pair.iml" filepath="$PROJECT_DIR$/vector-number-pair/vector-number-pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-oldest-one/vector-oldest-one.iml" filepath="$PROJECT_DIR$/vector-oldest-one/vector-oldest-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-people-height/vector-people-height.iml" filepath="$PROJECT_DIR$/vector-people-height/vector-people-height.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-sum/vector-sum.iml" filepath="$PROJECT_DIR$/vector-sum/vector-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-sum-vectors/vector-sum-vectors.iml" filepath="$PROJECT_DIR$/vector-sum-vectors/vector-sum-vectors.iml" />
+    </modules>
+  </component>
+</project>
