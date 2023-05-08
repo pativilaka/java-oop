@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5c145b6-6081-43d0-845b-add2f70557c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/heranca-bank/src/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heranca-bank/src/entities/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heranca-bank/src/entities/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-composition/account-composition.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/average-height/average-height.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank-account/bank-account.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composition-employee/composition-employee.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composition-order/composition-order.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composition-worker/composition-worker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-hora-calc/data-hora-calc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-hora-conversao/data-hora-conversao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-hora-formatacao/data-hora-formatacao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structure-vector/data-structure-vector.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dollar/dollar.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee/employee.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-employee-review/list-employee-review.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-employee/list-employee.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/list.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix-position/matrix-position.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/matrix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/order.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/post.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangle-oop/rectangle-oop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-oop/stock-oop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/student.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-aproved/vector-aproved.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-average-pairs/vector-average-pairs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-data/vector-data.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-highest-position/vector-highest-position.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-hostel/vector-hostel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-low-average/vector-low-average.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-negative-numbers/vector-negative-numbers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-number-pair/vector-number-pair.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-oldest-one/vector-oldest-one.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-people-height/vector-people-height.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-sum-vectors/vector-sum-vectors.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-sum/vector-sum.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="c5c145b6-6081-43d0-845b-add2f70557c6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +15,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/estudo-java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/estudo-java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
